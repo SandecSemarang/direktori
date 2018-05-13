@@ -1,6 +1,6 @@
 # direktori
 Direktori Member Sandec
-Untuk menambahkan silahkan lihat gabung.md
+Untuk menambahkan silahkan lihat [gabung.md](gabung.md)
 
 # Tentang
 Repositori ini berisi nama-nama member Sandec.
