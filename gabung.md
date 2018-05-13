@@ -21,4 +21,5 @@ Lakukan perubahan, dengan menambahkan nama sesuai urutan.
 Lakukan `commit` dan `push` ke `direktori` pribadi -> `username/direktori`
 
 ## Langkah 4
-Lakukan *Pull Request* dengan menyesuaikan **username**  pada link berikut.
+Lakukan *Pull Request* dengan menyesuaikan **username**  pada link berikut.<br/>
+[https://github.com/username/direktori/compare/SandecSemarang:master...master](https://github.com/username/direktori/compare/SandecSemarang:master...master)
