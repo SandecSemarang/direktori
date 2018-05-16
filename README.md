@@ -26,7 +26,7 @@ Repositori ini berisi nama-nama member Sandec.
 - f
 
 ## G
-- g
+- Gilang Ramadhan ([github](https://github.com/gilangadhan))
 
 ## H
 - h
