@@ -7,10 +7,10 @@ Untuk yang belum pernah menggunakan git, dapat belajar di [tutorial](https://git
 
 ## Langkah 1a: Bagi yang belum pernah *fork* dan *clone*
 - Lakukan *fork* pada [direktori](https://github.com/SandecSemarang/direktori).
-![alt text](https://github.com/SandecSemarang/direktori/tree/master/images/gitwindows-1a-1-fork.jpg)
+![1a fork](https://github.com/SandecSemarang/direktori/blob/master/images/gitwindows-1a-1-fork.JPG)
 
 - Anda akan memiliki *repository* `username/direktori`
-![alt text](https://github.com/SandecSemarang/direktori/tree/master/images/gitwindows-1a-2-hasil-fork.jpg)
+![alt text](https://github.com/yasirabd/direktori/i/raw/master/images/gitwindows-1a-2-hasil-fork.jpg)
 
 - Lakukan *clone* hasil *fork*.
   1. *Copy* url untuk melakukan *clone*
