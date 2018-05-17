@@ -74,7 +74,7 @@ Repositori ini berisi nama-nama member Sandec.
 - x
 
 ## Y
-- Yasir Abdurrahman ([github](https://github.com/yasirabd))
+- Yasir Abdurrohman ([github](https://github.com/yasirabd), [facebook](https://facebook.com/yasirabdr))
 
 ## Z
 - z
