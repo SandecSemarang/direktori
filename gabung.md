@@ -39,9 +39,9 @@ Lakukan perubahan, dengan menambahkan nama sesuai urutan.
 ## Langkah 3
 Lakukan `commit` dan `push` ke `direktori` pribadi -> `username/direktori`
 - Melakukan `add`
-![3 add](https://github.com/SandecSemarang/direktori/blob/master/images/gitwindows-3-comit.JPG)
+![3 add](https://github.com/SandecSemarang/direktori/blob/master/images/gitwindows-3-add.JPG)
 - Melakukan `commit`
-![3 commit](https://github.com/SandecSemarang/direktori/blob/master/images/gitwindows-3-comit.JPG)
+![3 commit](https://github.com/SandecSemarang/direktori/blob/master/images/gitwindows-3-commit.JPG)
 - Melakukan `push`
 ![3 push](https://github.com/SandecSemarang/direktori/blob/master/images/gitwindows-3-push.JPG)
 
