@@ -34,9 +34,14 @@ Untuk yang belum pernah menggunakan git, dapat belajar di [tutorial](https://git
 
 ## Langkah 2
 Lakukan perubahan, dengan menambahkan nama sesuai urutan.
+![2 change](https://github.com/SandecSemarang/direktori/blob/master/images/gitwindows-2-change.JPG)
 
 ## Langkah 3
 Lakukan `commit` dan `push` ke `direktori` pribadi -> `username/direktori`
+- Melakukan `commit`
+![3 commit](https://github.com/SandecSemarang/direktori/blob/master/images/gitwindows-3-comit.JPG)
+- Melakukan `push`
+![3 push](https://github.com/SandecSemarang/direktori/blob/master/images/gitwindows-3-push.JPG)
 
 ## Langkah 4
 Lakukan *Pull Request* dengan menyesuaikan **username**  pada link berikut.<br/>
