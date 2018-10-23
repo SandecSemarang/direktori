@@ -41,7 +41,7 @@ Repositori ini berisi nama-nama member Sandec.
 - l
 
 ## M
-- m
+- Mohammad Fajar Ainul Bashri ([github](https://github.com/fajarainul))
 
 ## N
 - n
