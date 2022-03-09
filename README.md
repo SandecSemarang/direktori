@@ -41,7 +41,7 @@ Repositori ini berisi nama-nama member Sandec.
 - l
 
 ## M
-- m
+- Muhammad Yaasiin Hidayatulloh ([github](https://github.com/myaasiinh), [linkedin](https://linkedin.com/in/myaasiinh))
 
 ## N
 - n
